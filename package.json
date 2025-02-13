@@ -1,0 +1,16 @@
+{
+  "name": "react-string-calculator",
+  "version": "1.0.0",
+  "description": "String Calculator Kata implemented in React.js with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
